@@ -22,12 +22,12 @@ const projects = [
   },
   {
     id: 3,
-    title: "Advanced Todo List",
+    title: "Portfolio Website",
     description:
-      "A feature-rich todo list application with user authentication and real-time collaboration.",
-    image: "/projects/project3.png",
-    tags: ["React", "Typescript", "MongoDB"],
-    demoUrl: "https://todo-frontend-bim6.vercel.app/login",
+      "A personal portfolio website to showcase my projects and skills.",
+    image: "/projects/project4.png",
+    tags: ["React", "Javascript", "TailwindCSS"],
+    demoUrl: "https://portfolio-zeta-lime-66.vercel.app",
     githubUrl: "#",
   },
 ];
